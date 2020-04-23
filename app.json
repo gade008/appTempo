@@ -1,0 +1,17 @@
+{
+  "name": "appTempo",
+  "displayName": "appTempo",
+  "expo": {
+    "name": "appTempo",
+    "slug": "appTempo",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
